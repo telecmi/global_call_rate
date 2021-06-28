@@ -1,12 +1,12 @@
 "albania","al",10.25,,,"yes",
-"argentina","ar",0.035,,12,,0.18
+"argentina","ar",3.2,,12,,0.18
 "australia","au",2.1,6.9,7.2,"yes",0.043
 "austria","at",,,6.35,"yes",0.28
 "belarus","by",,,14,,0.4
 "belgium","be",2.5,,19,"yes",0.45
-"Benin","bj",,0.45,,,
+"Benin","bj",,,,,
 "bosnia and herzegovina","ba",2.75,,40,,0.24
-"brazil","br",2.75,,6.5,"yes",0.27
+"brazil","br",2.75,6,6.5,"yes",0.27
 "bulgaria","bg",1.8,,22.5,,0.17
 "canada","ca",0.8,,1.05,"yes",0.026
 "chile","cl",4.2,6,8.63,"yes",0.08
@@ -21,20 +21,20 @@
 "estonia","ee",,,48,,0.52
 "finland","fi",1.9,6,26.6,"yes",0.17
 "france","fr",1.1,,8.85,"yes",0.055
-"Ghana","gh",,0.42,,,
+"Ghana","gh",,,,,
 "georgia","ge",8.25,,76,,0.115
 "germany","de",1.05,,,"yes",
 "greece","gr",1.65,,,"yes",
-"Guatemala","gt",0.2185,,,,
+"Guatemala","gt",10.45,,,,
 "hong kong","hk",,,75,,0.045
 "hungary","hu",3.55,,16,,0.1
 "iceland","is",6.6,,15,,0.12
 "india","in",,,87,,0.17
-"indonesia","id",0.068,,24,,0.286
+"indonesia","id",,,24,,0.286
 "ireland","ie",1.05,,1.25,"yes",0.57
 "israel","il",1.35,1.2,11.2,"yes",0.045
 "italy","it",1.45,,1.25,"yes",0.37
-"Jamaica","jm",0.35,,,,
+"Jamaica","jm",,,,,
 "japan","jp",,,31.1,,0.29
 "kenya","ke",8.25,,,,
 "latvia","lv",1.55,,15,"yes",0.16
@@ -49,15 +49,15 @@
 "nicaragua","ni",,25,,,
 "norway","no",1.1,,,"yes",
 "panama","pa",5.75,,7.85,"yes",0.042
-"Paraguay","py",0.0434,,,,
+"Paraguay","py",,,,,
 "peru","pe",4.1,,41,"yes",0.165
-"Philippines","ph",0.155,,,,
+"Philippines","ph",,,,,
 "poland","pl",1.6,6,11.2,,0.105
 "portugal","pt",,,8.85,,0.235
 "puerto rico","pr",6.6,,,"yes",
 "qatar","qa",,,,,
 "romania","ro",0.02,,18,"yes",0.155
-"russia","ru",0.02515,6,49.1,,0.15
+"russia","ru",5.1,6,49.1,,0.15
 "saudi arabia","sa",,,49.1,,0.23
 "serbia","rs",2.75,,31,,0.17
 "singapore","sg",4.05,,15,,0.1
@@ -73,6 +73,6 @@
 "ukraine","ua",9.15,1.75,16,,0.285
 "united arab emirates","ae",,,49.1,,0.37
 "united kingdom","gb",1.1,1.5,1.25,"yes",0.055
-"united states","us",0.8,0.003,1.05,"yes",0.022
+"united states","us",0.8,,1.05,"yes",0.022
 "uruguay","uy",,,87,,0.215
 "venezuela, bolivarian republic of venezuela","ve",10.25,,28,,0.065
