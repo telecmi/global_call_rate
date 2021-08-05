@@ -1,71 +1,76 @@
-"albania","al",10.25,,,"yes",
-"argentina","ar",3.2,,12,,0.18
-"australia","au",2.1,6.9,7.2,"yes",0.043
-"austria","at",,,6.35,"yes",0.28
-"belarus","by",,,14,,0.4
-"belgium","be",2.5,,19,"yes",0.45
-"bosnia and herzegovina","ba",2.75,,40,,0.24
-"brazil","br",2.75,6,6.5,"yes",0.27
-"bulgaria","bg",1.8,,22.5,,0.17
-"canada","ca",0.8,,1.05,"yes",0.026
-"chile","cl",4.2,6,8.63,"yes",0.08
-"colombia","co",10.9,10.9,6.5,,0.17
-"croatia","hr",3.5,,1.95,"yes",0.24
-"cyprus","cy",5.4,,7.9,,0.052
-"czech republic","cz",1.1,,11.2,"yes",0.2
-"denmark","dk",,6,4.4,"yes",0.245
-"dominican republic","do",3.6,,8.63,"yes",0.1
-"ecuador","ec",,,85,,0.3
-"el salvador","sv",5.4,,,,
-"estonia","ee",,,48,,0.52
-"finland","fi",1.9,6,26.6,"yes",0.17
-"france","fr",1.1,,8.85,"yes",0.055
-"georgia","ge",8.25,,76,,0.115
-"germany","de",1.05,,,"yes",
-"greece","gr",1.65,,,"yes",
-"Guatemala","gt",10.45,,,,
-"hong kong","hk",,,75,,0.045
-"hungary","hu",3.55,,16,,0.1
-"iceland","is",6.6,,15,,0.12
-"india","in",,,87,,0.17
-"indonesia","id",,,24,,0.286
-"ireland","ie",1.05,,1.25,"yes",0.57
-"israel","il",1.35,1.2,11.2,"yes",0.045
-"italy","it",1.45,,1.25,"yes",0.37
-"japan","jp",,,31.1,,0.29
-"kenya","ke",8.25,,,,
-"latvia","lv",1.55,,15,"yes",0.16
-"lithuania","lt",1.05,0.95,11.2,"yes",0.065
-"luxembourg","lu",,,3.05,"yes",0.19
-"malaysia","my",10.45,10.45,,,
-"malta","mt",,,,"yes",
-"mexico","mx",4.3,,4.82,"yes",
-"monaco","mc",,,13,,0.095
-"netherlands","nl",1.05,1.5,7.7,"yes",0.29
-"new zealand","nz",2.45,,28.85,"yes",0.17
-"nicaragua","ni",,25,,,
-"norway","no",1.1,,,"yes",
-"panama","pa",5.75,,7.85,"yes",0.042
-"peru","pe",4.1,,41,"yes",0.165
-"poland","pl",1.6,6,11.2,,0.105
-"portugal","pt",,,8.85,,0.235
-"puerto rico","pr",6.6,,,"yes",
-"romania","ro",1.6,,18,"yes",0.155
-"russia","ru",5.1,6,49.1,,0.15
-"saudi arabia","sa",,,49.1,,0.23
-"serbia","rs",2.75,,31,,0.17
-"singapore","sg",4.05,,15,,0.1
-"slovakia","sk",1.2,,14.2,"yes",0.18
-"slovenia","si",1.25,,3.05,"yes",13
-"south africa","za",2.1,,14.2,"yes",0.06
-"spain","es",2.2,,5.15,"yes",0.41
-"sweden","se",1.25,6,7.9,"yes",0.13
-"switzerland","ch",1.25,,26,"yes",0.23
-"taiwan","tw",,,15,,0.235
-"thailand","th",8.25,10.9,15,,0.23
-"ukraine","ua",9.15,1.75,16,,0.285
-"united arab emirates","ae",,,49.1,,0.37
-"united kingdom","gb",1.1,1.5,1.25,"yes",0.055
-"united states","us",0.8,,1.05,"yes",0.022
-"uruguay","uy",,,87,,0.215
-"venezuela, bolivarian republic of venezuela","ve",10.25,,28,,0.065
+albania,al,14,,,yes,
+argentina,ar,6,,20,,0.18
+australia,au,4,9,15,yes,0.043
+austria,at,,,12,yes,0.18
+belarus,by,,,25,,0.6
+belgium,be,3,,25,yes,0.3
+bosnia and herzegovina,ba,6,,60,,0.06
+brazil,br,5,10,12,yes,0.2
+bulgaria,bg,4,,35,,0.15
+canada,ca,2,,3,yes,0.04
+chile,cl,6,9,12,yes,0.15
+colombia,co,14,14,12,,0.25
+croatia,hr,4,,5,yes,0.1
+cyprus,cy,8,,10,,0.08
+czech republic,cz,2,,20,yes,0.08
+denmark,dk,,10,10,yes,0.05
+dominican republic,do,6,,13,yes,0.15
+ecuador,ec,,,100,,0.2
+el salvador,sv,8,,,,
+estonia,ee,,,60,,0.08
+finland,fi,3,9,35,yes,0.15
+france,fr,2,,20,yes,0.09
+georgia,ge,12,,90,,0.09
+germany,de,2,,,yes,
+ghana,gh,,35,,,
+greece,gr,3,,,yes,
+Guatemala,gt,15,,,,
+hong kong,hk,,,100,,0.07
+hungary,hu,6,,20,,0.08
+iceland,is,9,,20,,0.15
+india,in,,1,30,,0.02
+indonesia,id,50,,35,,0.09
+ireland,ie,2,,2,yes,0.06
+israel,il,3,3,15,yes,0.07
+italy,it,3,,3,yes,0.05
+jamaica,jm,32,,,,
+japan,jp,,,35,,0.15
+kenya,ke,12,,,,
+latvia,lv,3.5,,20,yes,0.2
+lithuania,lt,2,2,15,yes,0.09
+luxembourg,lu,,,5,yes,0.06
+malaysia,my,14,14,,,
+malta,mt,,,,yes,
+mexico,mx,6,,8,yes,0.1
+monaco,mc,,,18,,0.12
+netherlands,nl,3,3,10,yes,0.09
+new zealand,nz,4,,35,yes,0.09
+nicaragua,ni,,30,,,
+north macedonia,mk,30,,,,
+norway,no,2,,,yes,
+panama,pa,8,,12,yes,0.06
+peru,pe,7,,50,yes,0.2
+philippines,ph,14,,,,
+poland,pl,3,9,15,,0.09
+portugal,pt,,,12,,0.07
+puerto rico,pr,8,,,yes,
+romania,ro,3,,25,yes,0.09
+russia,ru,8,8,60,,0.17
+saudi arabia,sa,,,60,,0.25
+serbia,rs,4,,35,,0.12
+singapore,sg,6,,20,,0.12
+slovakia,sk,3,,20,yes,0.1
+slovenia,si,3,,5,yes,0.12
+south africa,za,4,,20,yes,0.09
+south korea,kr,,,20,,0.1
+spain,es,4,,8,yes,0.04
+sweden,se,2.5,9,10,yes,0
+switzerland,ch,2.5,,35,yes,0.13
+taiwan,tw,,,20,,0.12
+thailand,th,10,14,20,,0.25
+ukraine,ua,12,4,25,,0.3
+united arab emirates,ae,,,60,,0.4
+united kingdom,gb,2,3,3,yes,0.05
+united states,us,2,,2,yes,0.03
+uruguay,uy,,,100,,0.23
+"venezuela, bolivarian republic of venezuela",ve,14,,35,,0.08
